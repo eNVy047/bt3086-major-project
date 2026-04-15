@@ -24,10 +24,9 @@ Sensors continuously collect data on key plant health indicators:
 |---------------------|------------------------------|
 | Soil moisture       | Capacitive moisture sensor   |
 | Light intensity     | LDR / Lux sensor             |
-| Temperature         | DHT11 / DHT22               |
-| Humidity            | DHT11 / DHT22               |
+| Temperature & Humidity | DHT11 / DHT22            |
 | Soil pH             | pH probe                    |
-| Nutrient levels     | EC (electrical conductivity) |
+| Nutrient levels     | EC sensor (electrical conductivity) |
 
 ### 2. Data Processing
 
