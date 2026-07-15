@@ -11,6 +11,9 @@ This project builds a **cybernetic plant system** that uses **AI to monitor and 
 
 ---
 
+## Research paper 
+[![Project Report](https://img.shields.io/badge/PDF-Project_Report-red)](cybernetic_plant_bt3086-2.pdf)
+
 ## 🚀 Features
 
 * Real-time monitoring (moisture, temperature, humidity, light)
